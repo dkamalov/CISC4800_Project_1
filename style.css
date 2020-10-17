@@ -209,14 +209,17 @@ body {
 ol {
     font-family: Courier;
     font-size: 20px;
-    position: absolute; 
-    bottom: 50px;
+      position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
 
 li {
-  font-family: Courier;
+    font-family: Courier;
     font-size: 20px;
-    position: absolute; 
-    bottom: 50px;
-  
+      position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
