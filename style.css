@@ -212,19 +212,12 @@ ol {
     width: 100%;
     text-align: center;
     vertical-align: text-bottom;
-    position: absolute;
-  bottom: 0;
-  left: 0;
 }
 
 li {
     font-family: Courier;
-    font-size: 20px;
-    
+    font-size: 20px;  
     width: 100%;
     text-align: center;
     vertical-align: text-bottom;
-    position: absolute;
-  bottom: 0;
-  left: 0;
 }
