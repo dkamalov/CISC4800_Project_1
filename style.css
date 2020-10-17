@@ -232,6 +232,7 @@ ol {
     position: relative; 
     top: 600px;
     right: 20px;
+    background-color: #DCDCDC;
 }
 
 li {
@@ -243,4 +244,5 @@ li {
     position: relative; 
     top: 600px;
     right: 20px;
+    background-color: #DCDCDC;
 }
