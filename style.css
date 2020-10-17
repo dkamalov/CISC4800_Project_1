@@ -211,7 +211,7 @@ ol {
     font-size: 20px;
     width: 100%;
     text-align: center;
-    vertical-align: text-bottom;
+    vertical-align: bottom;
 }
 
 li {
@@ -219,5 +219,5 @@ li {
     font-size: 20px;  
     width: 100%;
     text-align: center;
-    vertical-align: text-bottom;
+    vertical-align: bottom;
 }
