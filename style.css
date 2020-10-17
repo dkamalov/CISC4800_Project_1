@@ -32,6 +32,8 @@ body {
     font-family: courier;
     align: left;
     color: white;
+    position: relative;
+    top: 500px;
   }
   h3 {
     font-size: 32px;
@@ -212,7 +214,7 @@ ol {
     width: 100%;
     text-align: center;
     position: relative; 
-    top: 750px;
+    top: 550px;
 }
 
 li {
@@ -222,5 +224,5 @@ li {
     text-align: center;
     vertical-align: bottom;
     position: relative; 
-    top: 750px;
+    top: 550px;
 }
