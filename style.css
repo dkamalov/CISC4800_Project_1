@@ -33,7 +33,7 @@ body {
     align: left;
     color: white;
     position: relative;
-    top: 500px;
+    top: 300px;
   }
   h3 {
     font-size: 32px;
@@ -215,6 +215,7 @@ ol {
     text-align: center;
     position: relative; 
     top: 550px;
+    left: 10px;
 }
 
 li {
@@ -225,4 +226,5 @@ li {
     vertical-align: bottom;
     position: relative; 
     top: 550px;
+    left: 10px;
 }
