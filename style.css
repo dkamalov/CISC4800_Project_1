@@ -212,7 +212,7 @@ ol {
     width: 100%;
     text-align: center;
     position: relative; 
-    top: 100px;
+    top: 500px;
 }
 
 li {
@@ -222,5 +222,5 @@ li {
     text-align: center;
     vertical-align: bottom;
     position: relative; 
-    top: 100px;
+    top: 500px;
 }
