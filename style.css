@@ -244,5 +244,6 @@ li {
     position: relative; 
     top: 600px;
     right: 20px;
-    background-color: #DCDCDC;
+    background-color: #A9A9A9;
+    color:black; 
 }
