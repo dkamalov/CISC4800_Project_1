@@ -34,6 +34,15 @@ body {
     color: white;
     position: relative;
     bottom: 80px;
+    border-radius: 5px;
+      box-sizing: border-box;
+      transition: all 500ms ease;
+      outline-style: solid;
+      outline-width: thin;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-right: 20px;
+      padding-left: 20px;
   }
   h3 {
     font-size: 32px;
@@ -119,7 +128,6 @@ body {
   color: white;
   padding: 10px;
   font-size: 60px;
-  font-weight: ;
   border-radius: 5px;
   box-sizing: border-box;
   transition: all 500ms ease;
@@ -143,7 +151,6 @@ body {
   color: white;
   padding: 10px;
   font-size: 40px;
-  font-weight: ;
   border-radius: 5px;
   box-sizing: border-box;
   transition: all 500ms ease;
