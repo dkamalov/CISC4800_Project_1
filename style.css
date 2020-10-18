@@ -39,12 +39,11 @@ body {
   }
 
 h1:hover {
-
     color: black;
     border-color: white;
     background-color: whitesmoke;
-
 }
+
  h2 {
     font-family: courier;
     color: white;
@@ -151,5 +150,9 @@ img {
     margin-right: auto;
     display: block;
     max-width:600px;
+}
+
+ol{
+    margin-left: 10px;
 }
 
