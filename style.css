@@ -139,12 +139,6 @@ h2:hover {
   background-color: whitesmoke;
 }
 
-.row {
-  content: "";
-  display: table;
-  clear: both;
-  margin:0 -16px;
-}
 
 column{
  float: left;
@@ -152,8 +146,6 @@ column{
   padding: 10px;
   height:300px;
 }
-
-
 
 img {
     height: auto; 
