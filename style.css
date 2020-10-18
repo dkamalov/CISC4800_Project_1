@@ -143,7 +143,7 @@ h2:hover {
   content: "";
   display: table;
   clear: both;
-
+  margin:0 -16px;
 }
 
 column{
@@ -161,6 +161,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     display: block;
-    
+    max-width:600px;
 }
 
