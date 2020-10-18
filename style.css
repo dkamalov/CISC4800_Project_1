@@ -140,22 +140,20 @@ h2:hover {
 }
 
 .row {
-     float: left;
-  width: 33.33%;
-  padding: 10px;
-  height: 300px;
+  content: "";
+  display: table;
+  clear: both;
 }
 
 column{
-  float: left;
+ float: left;
   width: 33.33%;
   padding: 10px;
-  height: 300px;
 }
 
 
 
-img {
+/*img {
     height: auto; 
     width: auto; 
     margin-left: auto;
@@ -163,6 +161,5 @@ img {
     display: block;
     max-width: 250px; 
     max-height: 250px;
-
 }
 
