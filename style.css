@@ -143,8 +143,7 @@ h2:hover {
   content: "";
   display: table;
   clear: both;
-  width:33.33%;
-  height:33.33%;
+
 }
 
 column{
@@ -155,13 +154,11 @@ column{
 
 
 
-/*img {
+img {
     height: auto; 
     width: auto; 
     margin-left: auto;
     margin-right: auto;
     display: block;
-    max-width: 250px; 
-    max-height: 250px;
 }
 
