@@ -140,20 +140,17 @@ h2:hover {
 }
 
 .row {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 128px;
+  height: 25%;
 }
 
 /* Create two equal columns that sits next to each other */
 .column {
-  flex: 50%;
-  padding: 0 4px;
+  float: left;
+  width: 25%;
 }
 
 .column img {
-  margin-top: 10px;
-  vertical-align: middle;
+ 
 }
 
 img {
