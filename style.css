@@ -142,7 +142,7 @@ h2:hover {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  margin-bottom: 128px;
 }
 
 /* Create two equal columns that sits next to each other */
