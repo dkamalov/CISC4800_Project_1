@@ -156,5 +156,8 @@ h2:hover {
   vertical-align: middle;
 }
 
-
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
 
