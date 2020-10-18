@@ -144,8 +144,7 @@ h2:hover {
 
 /* Create two equal columns that sits next to each other */
 .column {
-  float: left;
-  width: 33%;
+  width: 50%;
 }
 
 .column img {
