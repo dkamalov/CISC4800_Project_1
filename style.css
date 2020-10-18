@@ -171,42 +171,12 @@ h2:hover {
   padding-right: 20px;
   padding-left: 20px;
   font-family: Courier;
-
+  position: relative;
   top: 750px;
-  left: 350px;
   background-color: transparent;
 }
 
-.btn2{
 
-  border: white;
-  background: white;
-  color: white;
-  padding: 10px;
-  font-size: 40px;
-  border-radius: 5px;
-  box-sizing: border-box;
-  transition: all 500ms ease;
-  outline-style: solid;
-  outline-width: thin;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-right: 20px;
-  padding-left: 20px;
-  font-family: Courier;
-
-  top: 1050px;
-  left:570px;
-  background-color: transparent;
-}
-
-  .btn:hover {
-
-    color: black;
-    border-color: white;
-    background-color: whitesmoke;
-
-}
 
 .btn1:hover {
 
@@ -215,38 +185,6 @@ h2:hover {
   background-color: whitesmoke;
 
 }
-
- @media only screen and (max-width:300, max-height:600){
-
-  [class* = "img"]{
-    width:100%;
-
-  [class* =btn1]
-  }
-}
-
-
-
-.btn2:hover {
-
-  color: black;
-  border-color: white;
-  background-color: whitesmoke;
-
-}
-
-  ul {
-    font-family: Courier;
-    font-size: 20px;
-    padding-right: 8px;
-    align-items: left;
-
-}
-
-
-  hr{
-    font-weight: bolder;
-  }
 
 
 
