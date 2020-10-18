@@ -34,8 +34,8 @@
   </div>
 </nav>   
     
-      <div class="w3-row">
-    <div class="w3-third">
+      <div class="w3-row" id="myGrid" style="margin-bottom:128px">
+    <div class="w3-third" >
       <img src="Images/DSC_6067.jpg" style="width:100%" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
       <img src="Images/DSC_5847.jpg" style="width:100%" onclick="onClick(this)" alt="What a beautiful scenery this sunset">
       <img src="Images/DSC_5367.jpg" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
@@ -54,6 +54,14 @@
     </div>
   </div>
 
+      <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+    
   <br> 
   
   <h1> About Me </h1>
