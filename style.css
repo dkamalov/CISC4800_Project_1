@@ -277,7 +277,18 @@ ul {
     right: 20px;
 }*/
 
-.About-me{
+ul.About-me{
+    font-family: Courier;
+    font-size: 20px;  
+    width: 100%;
+    text-align: center;
+    vertical-align: bottom;
+    position: relative; 
+    top: 600px;
+    right: 20px; 
+}
+
+li.About-me{
     font-family: Courier;
     font-size: 20px;  
     width: 100%;
