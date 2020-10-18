@@ -157,7 +157,10 @@ h2:hover {
 }
 
 img.resize {
-    width:540px; /* you can use % */
-    height: auto;
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+
 }
 
