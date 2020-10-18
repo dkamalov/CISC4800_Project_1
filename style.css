@@ -145,7 +145,7 @@ h2:hover {
 /* Create two equal columns that sits next to each other */
 .column {
   float: left;
-  width: 20%;
+  width: 33%;
 }
 
 .column img {
@@ -158,8 +158,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     display: block;
-    max-width: 500px; 
-    max-height: 500px;
+    max-width: 250px; 
+    max-height: 250px;
 
 }
 
