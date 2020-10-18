@@ -245,3 +245,10 @@ li {
     top: 600px;
     right: 20px; 
 }
+
+ul {
+    text-align: center;
+    position: relative; 
+    top: 600px;
+    right: 20px;
+}
