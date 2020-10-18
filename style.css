@@ -248,33 +248,5 @@ h2:hover {
     font-weight: bolder;
   }
 
-ol {
-    font-family: Courier;
-    font-size: 20px;
-    width: 100%;
-    text-align: center;
-    position: relative; 
-    top: 600px;
-    right: 20px;
-    
-}
-
-li {
-    font-family: Courier;
-    font-size: 20px;  
-    width: 100%;
-    text-align: center;
-    vertical-align: bottom;
-    position: relative; 
-    top: 600px;
-    right: 20px; 
-}
-
-ul {
-    text-align: center;
-    position: relative; 
-    top: 600px;
-    right: 20px;
-}
 
 
